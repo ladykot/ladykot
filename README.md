@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Katerina!
-I am front-end developer 🌱 👩‍💻 😊 
+- I am frontend developer 🌱 👩‍💻  with a strong focus on user experience 😊. 
+- I love crafting responsive designs and working in teams to create intuitive interfaces.
+- Eager to collaborate and contribute to your projects, let's build something amazing together! 🚀 
 
 Skills: JS / REACT / HTML / CSS
 
