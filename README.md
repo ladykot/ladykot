@@ -4,7 +4,7 @@ I am beginner programmer 🌱 👩‍💻 😊
 Skills: JS / REACT / HTML / CSS
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ladykot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/akilina-design/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/ladykot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/akilina-design/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ladykot)](https://github.com/ryo-ma/github-profile-trophy)
 
