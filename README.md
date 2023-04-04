@@ -10,3 +10,6 @@ Skills: JS / REACT / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladykot)](https://github.com/anuraghazra/github-readme-stats)
 
+[![codewars](https://www.codewars.com/users/ladykot/badges/small)](https://www.codewars.com/users/ladykot) 
+
+
