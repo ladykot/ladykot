@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Katerina!
-I am beginner programmer 🌱 👩‍💻 😊 
+I am front-end developer 🌱 👩‍💻 😊 
 
 Skills: JS / REACT / HTML / CSS
 
