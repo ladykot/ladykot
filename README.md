@@ -3,10 +3,15 @@
 - I love crafting responsive designs and working in teams to create intuitive interfaces.
 - Eager to collaborate and contribute to your projects, let's build something amazing together! 🚀 
 
-Skills: JS / REACT / HTML / CSS
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+**Contact me**: katyaartline@gmail.com, @maykotka (telegram)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/ladykot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/akilina-design/)  
+___
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ladykot)](https://github.com/ryo-ma/github-profile-trophy)
 
