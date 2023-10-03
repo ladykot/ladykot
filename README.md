@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Katerina!
-- I am frontend developer 🌱 👩‍💻  with a strong focus on user experience 😊. 
+- I am frontend developer 🌱 👩‍💻  with a strong focus on user experience and software quality 😊. 
 - I love crafting responsive designs and working in teams to create intuitive interfaces.
 - Eager to collaborate and contribute to your projects, let's build something amazing together! 🚀 
 
@@ -8,7 +8,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Contact me**: katyaartline@gmail.com, @maykotka (telegram)
+**Contact me**: akilina.katerina@proton.me, @maykotka (telegram)
 
 ___
 
